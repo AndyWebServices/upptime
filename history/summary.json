@@ -4,19 +4,19 @@
     "url": "https://ha.andywebservices.com",
     "icon": "https://icons.duckduckgo.com/ip3/ha.andywebservices.com.ico",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "26.49%",
-    "uptimeDay": "26.49%",
-    "uptimeWeek": "26.49%",
-    "uptimeMonth": "26.49%",
-    "uptimeYear": "26.49%",
+    "status": "down",
+    "uptime": "32.17%",
+    "uptimeDay": "32.17%",
+    "uptimeWeek": "32.17%",
+    "uptimeMonth": "32.17%",
+    "uptimeYear": "32.17%",
     "time": 1122,
     "timeDay": 1122,
     "timeWeek": 1122,
     "timeMonth": 1122,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2024-03-17": 707
+      "2024-03-17": 710
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://auth.andywebservices.com",
     "icon": "https://www.freeipa.org/_static/favicon.png",
     "slug": "free-ipa",
-    "status": "up",
-    "uptime": "26.54%",
-    "uptimeDay": "26.54%",
-    "uptimeWeek": "26.54%",
-    "uptimeMonth": "26.54%",
-    "uptimeYear": "26.54%",
+    "status": "down",
+    "uptime": "32.27%",
+    "uptimeDay": "32.27%",
+    "uptimeWeek": "32.27%",
+    "uptimeMonth": "32.27%",
+    "uptimeYear": "32.27%",
     "time": 360,
     "timeDay": 360,
     "timeWeek": 360,
     "timeMonth": 360,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2024-03-17": 707
+      "2024-03-17": 710
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://unifi.andywebservices.com",
     "icon": "https://unifi.ui.com/favicon.ico",
     "slug": "unifi",
-    "status": "up",
-    "uptime": "22.40%",
-    "uptimeDay": "22.40%",
-    "uptimeWeek": "22.40%",
-    "uptimeMonth": "22.40%",
-    "uptimeYear": "22.40%",
+    "status": "down",
+    "uptime": "28.87%",
+    "uptimeDay": "28.87%",
+    "uptimeWeek": "28.87%",
+    "uptimeMonth": "28.87%",
+    "uptimeYear": "28.87%",
     "time": 280,
     "timeDay": 280,
     "timeWeek": 280,
     "timeMonth": 280,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-03-17": 702
+      "2024-03-17": 704
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://awsca.aws",
     "icon": "https://smallstep.com/favicon.ico",
     "slug": "andy-web-services-certificate-authority",
-    "status": "up",
-    "uptime": "19.83%",
-    "uptimeDay": "19.83%",
-    "uptimeWeek": "19.83%",
-    "uptimeMonth": "19.83%",
-    "uptimeYear": "19.83%",
+    "status": "down",
+    "uptime": "26.20%",
+    "uptimeDay": "26.20%",
+    "uptimeWeek": "26.20%",
+    "uptimeMonth": "26.20%",
+    "uptimeYear": "26.20%",
     "time": 237,
     "timeDay": 237,
     "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-03-17": 771
+      "2024-03-17": 773
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://pihole.aws",
     "icon": "https://pi-hole.net/favicon.ico",
     "slug": "pihole",
-    "status": "up",
-    "uptime": "26.70%",
-    "uptimeDay": "26.70%",
-    "uptimeWeek": "26.70%",
-    "uptimeMonth": "26.70%",
-    "uptimeYear": "26.70%",
+    "status": "down",
+    "uptime": "32.56%",
+    "uptimeDay": "32.56%",
+    "uptimeWeek": "32.56%",
+    "uptimeMonth": "32.56%",
+    "uptimeYear": "32.56%",
     "time": 333,
     "timeDay": 333,
     "timeWeek": 333,
     "timeMonth": 333,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-03-17": 705
+      "2024-03-17": 706
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://octoprint.aws",
     "icon": "https://octoprint.org/assets/img/tentacle-20x20.png",
     "slug": "octoprint",
-    "status": "up",
-    "uptime": "26.75%",
-    "uptimeDay": "26.75%",
-    "uptimeWeek": "26.75%",
-    "uptimeMonth": "26.75%",
-    "uptimeYear": "26.75%",
+    "status": "down",
+    "uptime": "32.66%",
+    "uptimeDay": "32.66%",
+    "uptimeWeek": "32.66%",
+    "uptimeMonth": "32.66%",
+    "uptimeYear": "32.66%",
     "time": 346,
     "timeDay": 346,
     "timeWeek": 346,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-03-17": 705
+      "2024-03-17": 706
     }
   },
   {
@@ -124,12 +124,12 @@
     "url": "https://grocy.aws",
     "icon": "https://raw.githubusercontent.com/grocy/grocy/b26dfe3fb090f5ffdce7d11b75dde4a7901eaffd/public/img/icon.svg",
     "slug": "grocy",
-    "status": "up",
-    "uptime": "26.80%",
-    "uptimeDay": "26.80%",
-    "uptimeWeek": "26.80%",
-    "uptimeMonth": "26.80%",
-    "uptimeYear": "26.80%",
+    "status": "down",
+    "uptime": "32.76%",
+    "uptimeDay": "32.76%",
+    "uptimeWeek": "32.76%",
+    "uptimeMonth": "32.76%",
+    "uptimeYear": "32.76%",
     "time": 713,
     "timeDay": 713,
     "timeWeek": 713,
