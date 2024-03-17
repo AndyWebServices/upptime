@@ -11,6 +11,8 @@ sites:
     url: https://unifi.andywebservices.com
   - name: AndyWebServices Certificate Authority
     url: https://awsca.aws
+    expectedStatusCodes:
+      - 404
   - name: Pihole
     url: https://pihole.aws
   - name: Octoprint
