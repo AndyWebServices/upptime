@@ -7,6 +7,8 @@ sites:
     url: https://ha.andywebservices.com
   - name: FreeIPA
     url: https://auth.andywebservices.com
+  - name: Unifi
+    url: https://unifi.andywebservices.com
   - name: AndyWebServices Certificate Authority
     url: https://awsca.aws
   - name: Pihole
