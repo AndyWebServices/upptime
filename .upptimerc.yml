@@ -7,11 +7,13 @@ sites:
     url: https://ha.andywebservices.com
   - name: FreeIPA
     url: https://auth.andywebservices.com
+    icon: https://www.freeipa.org/_static/favicon.png
   - name: Unifi
     url: https://unifi.andywebservices.com
     icon: https://unifi.ui.com/favicon.ico
   - name: AndyWebServices Certificate Authority
     url: https://awsca.aws
+    icon: https://smallstep.com/favicon.ico
     expectedStatusCodes:
       - 404
   - name: Pihole
@@ -22,6 +24,7 @@ sites:
     icon: https://octoprint.org/assets/img/tentacle-20x20.png
   - name: Grocy
     url: https://grocy.aws
+    icon: https://raw.githubusercontent.com/grocy/grocy/b26dfe3fb090f5ffdce7d11b75dde4a7901eaffd/public/img/icon.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
