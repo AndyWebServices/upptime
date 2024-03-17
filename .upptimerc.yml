@@ -9,14 +9,17 @@ sites:
     url: https://auth.andywebservices.com
   - name: Unifi
     url: https://unifi.andywebservices.com
+    icon: https://unifi.ui.com/favicon.ico
   - name: AndyWebServices Certificate Authority
     url: https://awsca.aws
     expectedStatusCodes:
       - 404
   - name: Pihole
     url: https://pihole.aws
+    icon: https://pi-hole.net/favicon.ico
   - name: Octoprint
     url: https://octoprint.aws
+    icon: https://octoprint.org/assets/img/tentacle-20x20.png
   - name: Grocy
     url: https://grocy.aws
 
