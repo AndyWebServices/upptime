@@ -1,7 +1,7 @@
 url: https://pihole.aws
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-26T23:07:12.569Z
+status: up
+code: 200
+responseTime: 97
+lastUpdated: 2024-03-26T23:08:59.855Z
 startTime: 2024-03-17T03:29:53.974Z
 generator: Upptime <https://github.com/upptime/upptime>
