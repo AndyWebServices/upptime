@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.andywebservices.com.ico",
     "slug": "main-status-page",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptime": "98.85%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 236,
     "timeDay": 307,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-05-26": 0,
+      "2025-05-26": 18,
       "2025-05-24": 16
     }
   },
@@ -25,19 +25,19 @@
     "url": "overwatch.andywebservices.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "overwatch-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 44,
-    "timeDay": 53,
-    "timeWeek": 44,
-    "timeMonth": 44,
-    "timeYear": 44,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 34,
+    "timeDay": 29,
+    "timeWeek": 34,
+    "timeMonth": 34,
+    "timeYear": 34,
     "dailyMinutesDown": {
-      "2025-05-26": 0
+      "2025-05-26": 17
     }
   }
 ]
